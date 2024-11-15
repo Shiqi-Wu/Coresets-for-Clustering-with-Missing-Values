@@ -12,7 +12,7 @@ Braverman V, Jiang S, Krauthgamer R, et al. Coresets for clustering with missing
 
 ## Usage
 - Clone the repository:
-`git clone https://github.com/your-username/repo-name.git`
 
+`git clone https://github.com/Shiqi-Wu/Coresets-for-Clustering-with-Missing-Values`
 ## Acknowledgment
 This project is a part of the CS5234 Advanced Algorithms course at NUS, and the implementation is based on the techniques described in the referenced paper.
